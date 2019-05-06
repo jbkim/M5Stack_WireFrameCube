@@ -1,1 +1,1 @@
-# M5Stack_WireFrameCube
+# M5Stack WireFrameCube
